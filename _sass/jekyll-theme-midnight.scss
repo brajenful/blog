@@ -308,10 +308,15 @@ section {
 }
 
 .post h1,
-.title h1 {
+#title h1 {
   color: #ffcc00;
 }
 
 .date {
   font-style: italic;
+}
+
+.back {
+  color: #ffcc00;
+  margin-top: 1em;
 }
