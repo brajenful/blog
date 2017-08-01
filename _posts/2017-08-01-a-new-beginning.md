@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Here starts a new beginning for pouring my thoughts onto whoever decides to read my blog posts. I started blogging on Tumblr sometime last year, and got some use out of it. However, I soon started to feel the need for a different platform. A platform that is much more versatile, a platform that is entirely within my control. So I decided to use GitHub. It may seem strange to use GitHub as a platform for a personal blog, but this is just one of the many things I plan to use it for. For the most part, I will be using it as intended.
 
