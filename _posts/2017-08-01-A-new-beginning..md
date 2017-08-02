@@ -5,4 +5,4 @@ Here starts a new beginning for pouring my thoughts onto whoever decides to read
 
 As for what this switch means, I’m not really sure. I may be posting more often, I may be posting about other things as well. Who knows. For now though, I don’t plan on going back, and I will make sure to let this known for the readers of my old blog.
 
-My old blog can be found at https://brajenful.tumblr.com
+My old blog can be found at https://brajenful.tumblr.com.
