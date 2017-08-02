@@ -6,7 +6,7 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
-      <h1>{{ post.title }}</h1>
+      <h1>{{ post.title | downcase | capitalize}}</h1>
       <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
       <div class="entry">
         {{ post.content }}
